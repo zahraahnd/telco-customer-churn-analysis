@@ -9,8 +9,9 @@ Telco Company X, faced a customer churned in California branch on last quarter. 
 <br>
 
 ## Overview
-
-<img width="600" height=auto alt="overview" src="https://github.com/user-attachments/assets/3a67750a-19fb-4161-9756-5978aab298f8" />
+<div style="width:100%">
+  <img src="https://github.com/user-attachments/assets/3a67750a-19fb-4161-9756-5978aab298f8" />
+</div>
 
 
 - 26.54% of users have churned, representing 30.8% of total monthly charges, equivalent to approximately USD 7.7M in lost value.
@@ -21,7 +22,9 @@ Telco Company X, faced a customer churned in California branch on last quarter. 
 
 ## Churned User Profiling
 
-<img width="600" height=auto alt="user-profiling" src="https://github.com/user-attachments/assets/12b6889f-c44f-4535-9561-6b1a4c57b04a" />
+<div style="width:100%">
+  <img src="https://github.com/user-attachments/assets/12b6889f-c44f-4535-9561-6b1a4c57b04a" />
+</div>
 
 
 
@@ -44,9 +47,10 @@ Telco Company X, faced a customer churned in California branch on last quarter. 
 
 ## Churned Reason Analysis
 
-<img width="600" height=auto alt="churn-reason" src="https://github.com/user-attachments/assets/8bd06e83-0dc8-4c33-9b5c-daad32afef4d" />
 
-
+<div style="width:100%">
+  <img src="https://github.com/user-attachments/assets/8bd06e83-0dc8-4c33-9b5c-daad32afef4d" />
+</div>
 
 
 To improve clarity, the original 20 churn reasons were grouped into **seven broader categories**. The analysis reveals **two primary churn drivers**: Competitor-related factors and Attitude-related factors.
@@ -69,8 +73,9 @@ To improve clarity, the original 20 churn reasons were grouped into **seven broa
 
 ## Targeted User Segmentation
 
-<img width="600" height=auto alt="targeted-user" src="https://github.com/user-attachments/assets/5d76758c-95c3-4310-9dbc-0edc742f34dc" />
-
+<div style="width:100%">
+  <img src="https://github.com/user-attachments/assets/5d76758c-95c3-4310-9dbc-0edc742f34dc" />
+</div>
 
 
 By segmenting churned users across three key dimensions—monthly charges, tenure, and CLTV—we identify the 7K–10K monthly charge segment as the highest priority, accounting for 55.4% of total profit loss from only 26.97% of churned users. This approach can be expanded incrementally based on budget, with prioritization in the following order: (1) monthly charges 7K–10K, (2) tenure 3–5 years, and (3) high CLTV.
