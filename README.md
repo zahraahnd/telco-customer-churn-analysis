@@ -10,7 +10,7 @@ Telco Company X, faced a customer churned in California branch on last quarter. 
 
 ## Overview
 
-<img width="1680" height="347" alt="overview" src="https://github.com/user-attachments/assets/3a67750a-19fb-4161-9756-5978aab298f8" />
+<img width="600" height=auto alt="overview" src="https://github.com/user-attachments/assets/3a67750a-19fb-4161-9756-5978aab298f8" />
 
 
 - 26.54% of users have churned, representing 30.8% of total monthly charges, equivalent to approximately USD 7.7M in lost value.
@@ -21,7 +21,7 @@ Telco Company X, faced a customer churned in California branch on last quarter. 
 
 ## Churned User Profiling
 
-<img width="1870" height="942" alt="user-profiling" src="https://github.com/user-attachments/assets/12b6889f-c44f-4535-9561-6b1a4c57b04a" />
+<img width="600" height=auto alt="user-profiling" src="https://github.com/user-attachments/assets/12b6889f-c44f-4535-9561-6b1a4c57b04a" />
 
 
 
@@ -44,7 +44,7 @@ Telco Company X, faced a customer churned in California branch on last quarter. 
 
 ## Churned Reason Analysis
 
-<img width="1874" height="949" alt="churn-reason" src="https://github.com/user-attachments/assets/8bd06e83-0dc8-4c33-9b5c-daad32afef4d" />
+<img width="600" height=auto alt="churn-reason" src="https://github.com/user-attachments/assets/8bd06e83-0dc8-4c33-9b5c-daad32afef4d" />
 
 
 
@@ -69,7 +69,7 @@ To improve clarity, the original 20 churn reasons were grouped into **seven broa
 
 ## Targeted User Segmentation
 
-<img width="1872" height="941" alt="targeted-user" src="https://github.com/user-attachments/assets/5d76758c-95c3-4310-9dbc-0edc742f34dc" />
+<img width="600" height=auto alt="targeted-user" src="https://github.com/user-attachments/assets/5d76758c-95c3-4310-9dbc-0edc742f34dc" />
 
 
 
