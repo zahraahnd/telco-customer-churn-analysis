@@ -6,7 +6,7 @@ Telco Company X, faced a customer churned in California branch on last quarter. 
 - Dataset : Telco Customer Churn IBM Dataset from [Kaggle ](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset/data)(7043 observations with 33 variables)
 - Tools : Python for Data Cleaning, PowerBI for Analysis
 
-<br>
+<br/>
 ## Overview
 <div style="width:100%">
   <img src="https://github.com/user-attachments/assets/3a67750a-19fb-4161-9756-5978aab298f8" />
@@ -16,7 +16,7 @@ Telco Company X, faced a customer churned in California branch on last quarter. 
   
 - Based on churn score distribution (score >65), an additional ~1.3K users from non-churned group are identified as high risk, representing a potential USD 4.5M in monthly charges if no mitigation actions are taken.
 
-<br>
+<br/>
 ## Churned User Profiling
 
 <div style="width:100%">
