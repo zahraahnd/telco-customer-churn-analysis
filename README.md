@@ -7,6 +7,8 @@ Telco Company X, faced a customer churned in California branch on last quarter. 
 - Dataset : Telco Customer Churn IBM Dataset from [Kaggle ](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset/data)(7043 observations with 33 variables)
 - Tools : Python for Data Cleaning, PowerBI for Analysis
 
+Find the Repo [here](https://github.com/zahraahnd/telco-customer-churn-analysis/tree/main) 
+
 ## Overview
 
 <div style="width:100%">
