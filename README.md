@@ -7,26 +7,21 @@ Telco Company X, faced a customer churned in California branch on last quarter. 
 - Tools : Python for Data Cleaning, PowerBI for Analysis
 
 <br>
-
 ## Overview
 <div style="width:100%">
   <img src="https://github.com/user-attachments/assets/3a67750a-19fb-4161-9756-5978aab298f8" />
 </div>
-
 
 - 26.54% of users have churned, representing 30.8% of total monthly charges, equivalent to approximately USD 7.7M in lost value.
   
 - Based on churn score distribution (score >65), an additional ~1.3K users from non-churned group are identified as high risk, representing a potential USD 4.5M in monthly charges if no mitigation actions are taken.
 
 <br>
-
 ## Churned User Profiling
 
 <div style="width:100%">
   <img src="https://github.com/user-attachments/assets/12b6889f-c44f-4535-9561-6b1a4c57b04a" />
 </div>
-
-
 
 - **By City** :
     Churn is broadly dispersed across 1,129 cities in California, with an average distribution of ~0.12% per city, indicating a long-tail pattern rather than localized concentration. Los Angeles (4.82%) and San Diego (2.68%) account for the highest shares.
@@ -44,14 +39,11 @@ Telco Company X, faced a customer churned in California branch on last quarter. 
     CLTV segments were defined based on the overall user distribution (Low, High, Very High). Churn is concentrated in the Low and High CLTV segments, which show similar churn and non-churn distributions and account for USD 4.27M and USD 3.23M in monthly charge losses, respectively. The Very High CLTV segment shows minimal churn (~2%), indicating strong retention among top-value customers.
 
 <br>
-
 ## Churned Reason Analysis
-
 
 <div style="width:100%">
   <img src="https://github.com/user-attachments/assets/8bd06e83-0dc8-4c33-9b5c-daad32afef4d" />
 </div>
-
 
 To improve clarity, the original 20 churn reasons were grouped into **seven broader categories**. The analysis reveals **two primary churn drivers**: Competitor-related factors and Attitude-related factors.
 
@@ -70,18 +62,15 @@ To improve clarity, the original 20 churn reasons were grouped into **seven broa
 - Geographically, attitude-related churn follows a long-tail pattern, with slightly higher counts in San Diego (10 cases), Fresno (5), and Los Angeles (5). However, most cities (255) report only a single case each.
 
 <br>
-
 ## Targeted User Segmentation
 
 <div style="width:100%">
   <img src="https://github.com/user-attachments/assets/5d76758c-95c3-4310-9dbc-0edc742f34dc" />
 </div>
 
-
 By segmenting churned users across three key dimensions—monthly charges, tenure, and CLTV—we identify the 7K–10K monthly charge segment as the highest priority, accounting for 55.4% of total profit loss from only 26.97% of churned users. This approach can be expanded incrementally based on budget, with prioritization in the following order: (1) monthly charges 7K–10K, (2) tenure 3–5 years, and (3) high CLTV.
 
 <br>
-
 ## Next Step & Recommendations
 
 1. Overall Churn Recovery Prioritization
